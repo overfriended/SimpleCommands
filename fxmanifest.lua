@@ -7,5 +7,3 @@ version '1.0.0'
 
 client_script 'config.lua'
 client_script 'client/client.lua'
-
-server_script 'config.lua'
