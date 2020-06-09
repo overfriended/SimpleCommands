@@ -1,7 +1,7 @@
 fx_version 'bodacious'
 game 'gta5'
 
-name 'Custom Commands'
+name 'SimpleCommands'
 author 'Rocket'
 version '1.0.0'
 
