@@ -27,7 +27,7 @@ Config.Permissions = {
 ]]
 
 Config.Commands = {
-    ["discord"] = {"The discord can be found here: ~o~discord.gg/MYINVITELINK~w~.", "notify"},
+    	["discord"] = {"The discord can be found here: ~o~discord.gg/MYINVITELINK~w~.", "notify"},
 	["testingwee"] = function(src, args)
 		TriggerEvent("cc:notify", "This was a ~g~test~w~!")
 	end
